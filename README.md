@@ -11,3 +11,8 @@ En résumé, notre plateforme permet aux utilisateurs d'apprendre de nouvelles c
 En rejoignant L'Espace, vous pouvez profiter d'une plateforme gagnant-gagnant pour les utilisateurs qui cherchent à apprendre de nouvelles choses et pour les professionnels qui cherchent à se faire connaître tout en gagnant de l'argent en partageant leur expertise.
 
 Rejoignez L'espace dès maintenant et commencez à échanger vos connaissances ! 
+
+
+Pour lancer le projet:
+- npm run dev
+- php artisan serve
