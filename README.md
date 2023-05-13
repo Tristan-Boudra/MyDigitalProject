@@ -13,3 +13,7 @@ En rejoignant L'Espace, vous pouvez profiter d'une plateforme gagnant-gagnant po
 Rejoignez L'espace dès maintenant et commencez à échanger vos connaissances ! 
 
 Tom et Tristan
+
+Pour lancer le projet:
+- npm run dev
+- php artisan serve
